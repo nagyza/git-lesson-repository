@@ -3,3 +3,4 @@
 3 redirections
 4 manipulations
 this is the echo string
+2 basic terminal operations
